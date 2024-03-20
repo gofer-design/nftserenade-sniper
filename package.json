@@ -1,0 +1,38 @@
+{
+  "name": "nftserenade-sniper",
+  "version": "1.0.0",
+  "description": "Snipe NFTs with a comprehensive sniper tool, maximizing NFT acquisition efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gofer-design/nftserenade-sniper"
+  },
+  "author": "gofer-design",
+  "license": "MIT",
+  "dependencies": {
+    "nftserenade-sniper": "1.0.0",
+    "nftserenade-pretender": "1.0.0",
+    "cors": "1.0.0",
+    "ganache-cli": "1.0.0",
+    "web3-react": "1.0.0",
+    "axios": "1.0.0",
+    "mongoose": "1.0.0",
+    "commander": "1.0.0",
+    "ethers": "1.0.0",
+    "react": "1.0.0",
+    "ipfs-http-client": "1.0.0",
+    "react-redux": "1.0.0",
+    "solc": "1.0.0",
+    "pg": "1.0.0",
+    "babel-core": "1.0.0",
+    "node-sass": "1.0.0",
+    "mysql": "1.0.0",
+    "jquery": "1.0.0",
+    "eth-crypto": "1.0.0",
+    "socket.io": "1.0.0",
+    "sinon": "1.0.0"
+  }
+}
